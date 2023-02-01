@@ -5,12 +5,16 @@
     box-sizing: border-box;
 }
 
+.main-container{
+    margin: 10px;
+}
 .carousel {
     height: 80vh;
 }
 
 .carousel > .carousel-inner img {
     height: 80vh;
+
 }
 
 
